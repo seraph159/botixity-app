@@ -1,0 +1,17 @@
+*:hover,
+*:focus,
+*:active
+ {
+  outline: none;
+  box-shadow: none !important;
+  -webkit-appearance: none;
+}
+
+
+.dropdown-menu:hover {
+  box-shadow: 0 0 15px 1px rgb(26 95 148 / 20%) !important;
+}
+
+i {
+  z-index: -1;
+}
